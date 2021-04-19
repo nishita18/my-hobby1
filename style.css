@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+      background: linear-gradient(pink 0% , purple 100%); 
+        background-repeat: no-repeat;
+    color: aliceblue;
+}
+img{  
+ 
+     width: 100px;
+    border-radius: 40%;
+}
+#bio{
+ padding-left: 500px;
+    font-size: 18;
+    text-align: center;
+    font-family: serif;
+  
+    background-repeat: no-repeat;
+}
+h1{
+    text-shadow: 2px 2px black;
+    font-size: 20;
+    font-family: monospace;
+    
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    top: 10px;
+    right: 200px;
+    cursor: pointer;
+    color: black;
+    float: right;
+    
+}
+li{
+    display: inline;
+    white-space: normal;
+}
